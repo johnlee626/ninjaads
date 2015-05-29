@@ -151,8 +151,6 @@ $(document).ready(function()
 			</ul>		
 		</div>	
 		
-		<!--<div id="header-image"></div>-->
-						
 	<!--header ends-->					
 	</div>
 		
