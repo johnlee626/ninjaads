@@ -274,42 +274,6 @@ $(document).ready(function()
 				
 				</div>
 				
-				<!--<div class="entry">
-						
-					<h3>Lorem Ipsum Dolor Sit Amet</h3>
-					<p>
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. 
-					Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu 
-					posuere nunc justo tempus leo. Donec mattis, purus nec placerat bibendum, dui pede condimentum 
-					odio, ac blandit ante orci ut diam. Cras fringilla magna. Phasellus suscipit, leo a pharetra 
-					condimentum, lorem tellus eleifend magna, eget fringilla velit magna id neque. Curabitur vel urna. 
-					In tristique orci porttitor ipsum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. 
-					Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu 
-					posuere nunc justo tempus leo. 				
-					</p>
-				
-					<p><a class="more-link" href="index.html">continue reading</a></p>
-				
-				</div>-->
-				
-				<!--<div class="entry">
-			
-					<h3>Lorem Ipsum</h3>
-					<p>
-					Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. 
-					Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu 
-					posuere nunc justo tempus leo. Donec mattis, purus nec placerat bibendum, dui pede condimentum 
-					odio, ac blandit ante orci ut diam. Cras fringilla magna. Phasellus suscipit, leo a pharetra 
-					condimentum, lorem tellus eleifend magna, eget fringilla velit magna id neque. Curabitur vel urna. 
-					In tristique orci porttitor ipsum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec libero. Suspendisse bibendum. 
-					Cras id urna. Morbi tincidunt, orci ac convallis aliquam, lectus turpis varius lorem, eu 
-					posuere nunc justo tempus leo. 				
-					</p>
-				
-					<p><a class="more-link" href="index.html">continue reading</a></p>
-			
-				</div>-->
-				
 			</div>
 		
 			<div id="right">
@@ -330,19 +294,7 @@ $(document).ready(function()
 							
 					</ul>	
 				</div>
-							
-				<!--<div class="sidemenu">
-					<h3>Sponsors</h3>
-					<ul>
-						<li><a href="http://themeforest.net?ref=ealigam">ThemeForest <br /><span>Your Choice for Site Templates, Wordpress, Joomla and CMS Themes</span></a></li>
-						<li><a href="http://www.4templates.com/?aff=ealigam">4templates <br /><span>Low Cost Hi-Quality Templates</span></a></li>
-						<li><a href="http://store.templatemonster.com?aff=ealigam">TemplateMonster <br /><span>Delivering the Best Templates on the Net!</span></a></li>
-						<li><a href="http://tinyurl.com/3cgv2m">Text Link Ads <br /><span>Monetized your website</span></a></li>
-						<li><a href="http://www.fotolia.com/partner/114283">Fotolia <br /><span>Free stock images or from $1</span></a> </li>
-						<li><a href="http://www.dreamhost.com/r.cgi?287326">Dreamhost <br /><span>Premium webhosting</span></a></li>
-					</ul>
-				</div>-->							
-					
+				
 			</div>		
 		
 		</div>	
